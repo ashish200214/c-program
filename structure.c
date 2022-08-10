@@ -1,3 +1,4 @@
+//Structure with Function//
 #include<stdio.h>
 #include<string.h>
 struct student
