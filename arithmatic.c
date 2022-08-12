@@ -1,5 +1,5 @@
 
-//area of triangle 
+
 #include<stdio.h>
 int add(int a,int b)
 {
